@@ -1,16 +1,31 @@
-## Hi there 👋
+# Fabian Haslach
 
-<!--
-**fabianhaslach3-cyber/fabianhaslach3-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder of Zynex24.de · Developer · IT & Infrastructure**
 
-Here are some ideas to get you started:
+I build and operate digital projects with a focus on software development, Minecraft infrastructure, automation and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+- Founder and Host at **Zynex24.de**
+- Developing custom Minecraft systems and plugins
+- Building management tools and automation workflows
+- Working with backend development, server infrastructure and web technologies
+
+## Focus Areas
+
+- **Java** — Minecraft plugin development
+- **Python** — Backend services and automation
+- **Web Development** — Modern websites and interfaces
+- **Infrastructure** — Server administration and hosting
+- **Discord** — Bots, integrations and management systems
+- **AI & Automation** — Practical tools and workflow automation
+
+## Featured Project
+
+### [Zynex24.de](https://zynex24.de)
+
+Minecraft hosting, server infrastructure, custom plugins and digital services.
+
+---
+
+*Building systems. Developing ideas. Creating infrastructure.*
